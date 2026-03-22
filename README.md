@@ -1,9 +1,11 @@
 My model focused on designing and training a reinforcement learning agent using Q-learning to navigate a maze environment and make optimal decisions through trial-and-error learning.
 
 Before
+
 <img width="374" height="370" alt="image" src="https://github.com/user-attachments/assets/40dd8cfe-f12d-4b0e-8af6-cf40d34a6f18" />
 
 After
+
 <img width="360" height="363" alt="image" src="https://github.com/user-attachments/assets/777e0909-d4ba-4c46-90ed-841f56d9b790" />
 
 
